@@ -1882,30 +1882,29 @@ body {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/-1-3-2-2019-10-14-668x376.png");
 }
-.cid-rlW0l8jU0s {
+.cid-rmLHBsC4QB {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
-.cid-rlW0l8jU0s .mbr-section-subtitle {
+.cid-rmLHBsC4QB .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rlW0l8jU0s .mbr-text {
+.cid-rmLHBsC4QB .mbr-text {
   color: #767676;
-  text-align: left;
 }
-.cid-rlW0l8jU0s .card {
+.cid-rmLHBsC4QB .card {
   display: -webkit-flex;
   position: relative;
   justify-content: center;
   -webkit-justify-content: center;
 }
-.cid-rlW0l8jU0s .card-wrapper {
+.cid-rmLHBsC4QB .card-wrapper {
   height: 100%;
   box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
   transition: box-shadow 0.3s;
 }
-.cid-rlW0l8jU0s .card-wrapper .card-img {
+.cid-rmLHBsC4QB .card-wrapper .card-img {
   display: -webkit-flex;
   flex-direction: column;
   align-items: center;
@@ -1918,12 +1917,12 @@ body {
   -webkit-align-items: center;
   -webkit-justify-content: center;
 }
-.cid-rlW0l8jU0s .card-wrapper .card-img .mbr-overlay {
+.cid-rmLHBsC4QB .card-wrapper .card-img .mbr-overlay {
   background-color: #efefef;
   display: none;
   transition: opacity .3s;
 }
-.cid-rlW0l8jU0s .card-wrapper .card-img .mbr-section-btn {
+.cid-rmLHBsC4QB .card-wrapper .card-img .mbr-section-btn {
   display: flex;
   position: absolute;
   transition: opacity .3s;
@@ -1935,41 +1934,41 @@ body {
   -webkit-justify-content: center;
   -webkit-align-items: center;
 }
-.cid-rlW0l8jU0s .card-wrapper .card-img img {
+.cid-rmLHBsC4QB .card-wrapper .card-img img {
   width: 100%;
 }
-.cid-rlW0l8jU0s .card-wrapper .card-box {
-  background-color: #efefef;
+.cid-rmLHBsC4QB .card-wrapper .card-box {
+  background-color: #ffffff;
   padding: 0 2rem 2rem 2rem;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
 }
-.cid-rlW0l8jU0s .card-wrapper .card-box h4 {
+.cid-rmLHBsC4QB .card-wrapper .card-box h4 {
   font-weight: 500;
   margin-bottom: 0;
   padding-top: 2rem;
 }
-.cid-rlW0l8jU0s .card-wrapper .card-box p {
+.cid-rmLHBsC4QB .card-wrapper .card-box p {
   margin-bottom: 0;
   padding-top: 1.5rem;
 }
-.cid-rlW0l8jU0s .card-wrapper:hover {
+.cid-rmLHBsC4QB .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
-.cid-rlW0l8jU0s .popup-btn .mbr-overlay {
+.cid-rmLHBsC4QB .popup-btn .mbr-overlay {
   display: block !important;
   opacity: 0;
 }
-.cid-rlW0l8jU0s .popup-btn .mbr-section-btn {
+.cid-rmLHBsC4QB .popup-btn .mbr-section-btn {
   height: 100%;
   display: -webkit-flex !important;
   opacity: 0;
 }
-.cid-rlW0l8jU0s .popup-btn:hover .mbr-overlay {
+.cid-rmLHBsC4QB .popup-btn:hover .mbr-overlay {
   opacity: .5;
 }
-.cid-rlW0l8jU0s .popup-btn:hover .mbr-section-btn {
+.cid-rmLHBsC4QB .popup-btn:hover .mbr-section-btn {
   opacity: 1;
 }
 .cid-rmBqsKBwTS {
@@ -2029,20 +2028,6 @@ body {
 .cid-rmw3l5ZxaK .mbr-text,
 .cid-rmw3l5ZxaK .mbr-section-btn {
   color: #67ab19;
-}
-.cid-rmcNArBsU8 {
-  background: #149dcc;
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: linear-gradient(0deg, #149dcc, #ffffff);
-}
-.cid-rmcNArBsU8 .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-rmcNArBsU8 .video-block {
-    width: 100% !important;
-  }
 }
 .cid-ri4zlvj4kD {
   padding-top: 0px;
@@ -2243,6 +2228,31 @@ body {
 }
 .cid-rj1INS85f9 .popup-btn:hover .mbr-section-btn {
   opacity: 1;
+}
+.cid-rmLEgnAiET {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #b1a374, #cccccc);
+}
+@media (min-width: 992px) {
+  .cid-rmLEgnAiET .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rmLEgnAiET .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-rmLEgnAiET .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rmLEgnAiET .media-container-row .mbr-figure {
+    padding-left: 0;
+    padding-right: 4rem;
+  }
 }
 .cid-rmcK279mj5 {
   padding-top: 90px;
