@@ -1877,10 +1877,19 @@ body {
     font-size: 40px !important;
   }
 }
+.cid-ri4pkvxyFA I {
+  color: #000000;
+}
+.cid-ri4pkvxyFA B {
+  color: #000000;
+}
 .cid-ri4pqBOkY2 {
   padding-top: 60px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/-1-3-2-2019-10-14-668x376.png");
+}
+.cid-ri4pqBOkY2 .mbr-text {
+  color: #ffffff;
 }
 .cid-rrCIiguYyQ {
   padding-top: 90px;
@@ -1915,6 +1924,29 @@ body {
 .cid-rrF0QbFLjb .mbr-text {
   color: #767676;
 }
+.cid-rrM75lTJYu {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rrM75lTJYu .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rrM75lTJYu .section-text {
+  padding: 2rem 0;
+}
+.cid-rrM75lTJYu .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rrM75lTJYu .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rqeXkjcoet {
   background-image: url("../../../assets/images/cover-euparlaiment-1920x600.jpg");
 }
@@ -1939,29 +1971,6 @@ body {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/mbr-2-1920x1280.jpg");
-}
-.cid-rrM75lTJYu {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-rrM75lTJYu .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rrM75lTJYu .section-text {
-  padding: 2rem 0;
-}
-.cid-rrM75lTJYu .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rrM75lTJYu .inner-container {
-    width: 100% !important;
-  }
 }
 .cid-rrF2gBvCQh {
   padding-top: 60px;
@@ -1994,29 +2003,29 @@ body {
 .cid-rq8NT93IpM .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rrciBlpQ0n {
+.cid-rrSRQYav1k {
   padding-top: 0px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
-.cid-rrciBlpQ0n .mbr-section-subtitle {
+.cid-rrSRQYav1k .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rrciBlpQ0n .mbr-text {
+.cid-rrSRQYav1k .mbr-text {
   color: #767676;
 }
-.cid-rrciBlpQ0n .card {
+.cid-rrSRQYav1k .card {
   display: -webkit-flex;
   position: relative;
   justify-content: center;
   -webkit-justify-content: center;
 }
-.cid-rrciBlpQ0n .card-wrapper {
+.cid-rrSRQYav1k .card-wrapper {
   height: 100%;
   box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
   transition: box-shadow 0.3s;
 }
-.cid-rrciBlpQ0n .card-wrapper .card-img {
+.cid-rrSRQYav1k .card-wrapper .card-img {
   display: -webkit-flex;
   flex-direction: column;
   align-items: center;
@@ -2029,12 +2038,12 @@ body {
   -webkit-align-items: center;
   -webkit-justify-content: center;
 }
-.cid-rrciBlpQ0n .card-wrapper .card-img .mbr-overlay {
+.cid-rrSRQYav1k .card-wrapper .card-img .mbr-overlay {
   background-color: #efefef;
   display: none;
   transition: opacity .3s;
 }
-.cid-rrciBlpQ0n .card-wrapper .card-img .mbr-section-btn {
+.cid-rrSRQYav1k .card-wrapper .card-img .mbr-section-btn {
   display: flex;
   position: absolute;
   transition: opacity .3s;
@@ -2046,41 +2055,41 @@ body {
   -webkit-justify-content: center;
   -webkit-align-items: center;
 }
-.cid-rrciBlpQ0n .card-wrapper .card-img img {
+.cid-rrSRQYav1k .card-wrapper .card-img img {
   width: 100%;
 }
-.cid-rrciBlpQ0n .card-wrapper .card-box {
+.cid-rrSRQYav1k .card-wrapper .card-box {
   background-color: #ffffff;
   padding: 0 2rem 2rem 2rem;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
 }
-.cid-rrciBlpQ0n .card-wrapper .card-box h4 {
+.cid-rrSRQYav1k .card-wrapper .card-box h4 {
   font-weight: 500;
   margin-bottom: 0;
   padding-top: 2rem;
 }
-.cid-rrciBlpQ0n .card-wrapper .card-box p {
+.cid-rrSRQYav1k .card-wrapper .card-box p {
   margin-bottom: 0;
   padding-top: 1.5rem;
 }
-.cid-rrciBlpQ0n .card-wrapper:hover {
+.cid-rrSRQYav1k .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
-.cid-rrciBlpQ0n .popup-btn .mbr-overlay {
+.cid-rrSRQYav1k .popup-btn .mbr-overlay {
   display: block !important;
   opacity: 0;
 }
-.cid-rrciBlpQ0n .popup-btn .mbr-section-btn {
+.cid-rrSRQYav1k .popup-btn .mbr-section-btn {
   height: 100%;
   display: -webkit-flex !important;
   opacity: 0;
 }
-.cid-rrciBlpQ0n .popup-btn:hover .mbr-overlay {
+.cid-rrSRQYav1k .popup-btn:hover .mbr-overlay {
   opacity: .5;
 }
-.cid-rrciBlpQ0n .popup-btn:hover .mbr-section-btn {
+.cid-rrSRQYav1k .popup-btn:hover .mbr-section-btn {
   opacity: 1;
 }
 .cid-rpCLFnZFMf {
@@ -4306,6 +4315,56 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
+.cid-rrTuIshrCw {
+  padding-top: 120px;
+  padding-bottom: 45px;
+  background: #ffffff;
+}
+.cid-rrTuIshrCw .images-container.container-fluid {
+  padding: 0;
+}
+.cid-rrTuIshrCw .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+}
+.cid-rrTuIshrCw .media-container-row .img-item {
+  display: -webkit-flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+  -webkit-flex-direction: column;
+  -webkit-justify-content: center;
+}
+.cid-rrTuIshrCw .media-container-row .img-item img {
+  width: 100%;
+  min-height: 1px;
+}
+.cid-rrTuIshrCw .media-container-row .img-item .img-caption {
+  background: #ffffff;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-rrTuIshrCw .media-container-row .img-item .img-caption p {
+  margin-bottom: 0;
+}
+.cid-rrTuIshrCw .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-rrTuIshrCw .img-item {
+    width: 100% !important;
+  }
+  .cid-rrTuIshrCw .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+    -webkit-flex-basis: initial !important;
+  }
+}
 .cid-ri4oWbAIhJ .navbar {
   background: #4a74d5;
   transition: none;
@@ -4707,8 +4766,8 @@ body {
   color: #767676 !important;
 }
 .cid-rrHXQgAPYL {
-  padding-top: 120px;
-  padding-bottom: 45px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background: #ffffff;
 }
 .cid-rrHXQgAPYL .images-container.container-fluid {
