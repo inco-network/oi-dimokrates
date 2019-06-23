@@ -1441,6 +1441,14 @@ body {
 .cid-ri4oINBn6O a.close:hover {
   color: #ffffff;
 }
+.cid-ruc88twDHj {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-ruc88twDHj .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-ri4oWbAIhJ .navbar {
   background: #4a74d5;
   transition: none;
@@ -2067,6 +2075,40 @@ body {
   .cid-rsOL7Kf3ZL .mbr-text {
     text-align: center;
   }
+}
+.cid-ru3RSNg1yj {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-ru3RSNg1yj .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-ru3RSNg1yj h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-ru3RSNg1yj p {
+  color: #767676;
+  text-align: left;
+}
+.cid-ru3RSNg1yj .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-ru3RSNg1yj .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-ru3RSNg1yj .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
 }
 .cid-ru3v92jL21 {
   padding-top: 30px;
@@ -2844,6 +2886,14 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
+}
+.cid-ruc84u6jIM {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-ruc84u6jIM .mbr-section-subtitle {
+  color: #767676;
 }
 .cid-ri4oWbAIhJ .navbar {
   background: #4a74d5;
