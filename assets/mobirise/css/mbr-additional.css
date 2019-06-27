@@ -2055,15 +2055,9 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/-dpc0643-2000x1334.jpg");
 }
-.cid-rsOL7Kf3ZL .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
 @media (min-width: 992px) {
   .cid-rsOL7Kf3ZL .mbr-figure {
     padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
@@ -2074,6 +2068,80 @@ body {
 @media (max-width: 767px) {
   .cid-rsOL7Kf3ZL .mbr-text {
     text-align: center;
+  }
+}
+.cid-ruD84mktHv {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-ruD84mktHv h2 {
+  text-align: left;
+}
+.cid-ruD84mktHv h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-ruD84mktHv p {
+  color: #767676;
+  text-align: left;
+}
+.cid-ruD84mktHv .aside-content {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-ruD84mktHv .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-ruD84mktHv .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-ruD84mktHv .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-ruD84mktHv .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-ruD84mktHv .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-ruD84mktHv .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+  .cid-ruD84mktHv .media-container-row {
+    -webkit-flex-direction: row-reverse;
+  }
+}
+@media (max-width: 991px) {
+  .cid-ruD84mktHv .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-top: 1rem;
+    margin-top: 2rem;
+  }
+  .cid-ruD84mktHv .media-container-row {
+    -webkit-flex-direction: column-reverse;
+  }
+}
+@media (max-width: 300px) {
+  .cid-ruD84mktHv .card-img span {
+    font-size: 40px !important;
   }
 }
 .cid-ru3RSNg1yj {
@@ -2886,14 +2954,6 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
-}
-.cid-ruc84u6jIM {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-ruc84u6jIM .mbr-section-subtitle {
-  color: #767676;
 }
 .cid-ri4oWbAIhJ .navbar {
   background: #4a74d5;
