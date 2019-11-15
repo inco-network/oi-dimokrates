@@ -1912,6 +1912,29 @@ body {
 .cid-rFbWJ3Oxqe .mbr-section-subtitle {
   color: #767676;
 }
+.cid-rHRShzhYNe {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rHRShzhYNe .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rHRShzhYNe .section-text {
+  padding: 2rem 0;
+}
+.cid-rHRShzhYNe .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rHRShzhYNe .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rFQVZiPuau {
   padding-top: 90px;
   padding-bottom: 90px;
