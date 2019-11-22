@@ -1912,6 +1912,40 @@ body {
 .cid-rFbWJ3Oxqe .mbr-section-subtitle {
   color: #767676;
 }
+.cid-rIAdbW2O8U {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/mbr-3-1920x1280.jpg");
+}
+.cid-rIAdbW2O8U .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-rIAdbW2O8U h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rIAdbW2O8U p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rIAdbW2O8U .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rIAdbW2O8U .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-rIAdbW2O8U .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
 .cid-rIuN6sy5RO {
   padding-top: 15px;
   padding-bottom: 15px;
