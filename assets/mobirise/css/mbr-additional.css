@@ -1915,6 +1915,21 @@ body {
 .cid-rTWZZJLPw3 .btn {
   margin: 0 0 .5rem 0;
 }
+.cid-s5dPCt6qzZ {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(45deg, #293254, #ffffff);
+}
+@media (min-width: 992px) {
+  .cid-s5dPCt6qzZ .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s5dPCt6qzZ .mbr-figure {
+    padding-top: 3rem;
+  }
+}
 .cid-s4Hm2l5ow2 {
   padding-top: 15px;
   padding-bottom: 15px;
