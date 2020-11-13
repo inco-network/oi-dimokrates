@@ -40,7 +40,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 275,
+    "uniqCompNum": 276,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -723,6 +723,27 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text I": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><b><i>Να μην γίνει καθόλου Lockdown ήταν το θέμα μας &nbsp;</i></b>πριν τα μέτρα που παρθήκαν εγκαίρως κατά τη γνώμη μου, γιατί υποτίθεται ότι είχαμε την εμπειρία από το πρώτο και θα μπορούσαμε να το ελέγξουμε. Αλλά ο υιός εκμεταλλεύεται και άλλα γεγονότα της καθημερινότητας μας όπως το ότι κάποιοι συνάνθρωποι μας μεγαλύτερης ηλικίας έχουν διαφορετικές ανάγκες από κάποιους νεότερους και πάει λέγοντας. Κατά τη γνώμη μου δεν ήταν λάθος ο μήνας που έκλεισαν τα μαγαζιά και υπολειτουργούν κάποια άλλα η πανδημία έχει σαφή χαρακτηριστικά και δεν είναι μαγκιά το να μην λαβαίνεις τα μέτρα σου γιατί ένας μονοκύτταρος οργανισμός φάνηκε ποιό έξυπνος από σένα.\n Δεν μιλώ για τα μέτρα της κυβέρνησης μιλώ για τα μέτρα που πρέπει να λάβει ο καθένας μας ξεχωριστά. και ο λόγος δεν είναι άλλος από τη προσωπική ευθύνη που πρέπει να δείξουμε όλοι μας σε αυτές τις περιπτώσεις. Και έρχομαι στο δια ταύτα όταν κλείνανε οι επιχειρήσεις άλλων κλάδων κάθε μέρα κανείς δεν ασχολείτο με το θέμα κάναμε μανάρι το τουρισμό και την εστίαση αυτό εκμεταλλεύτηκε ο υιός και μας γονάτισε , ποιο δηλαδή ότι κλείσαμε χωρίς δισταγμό και χωρίς να μας νοιάζει πολύ παραγωγικούς τομείς της οικονομίας μας που απασχολούσαν πλήθος κόσμου που θα μπορούσε να ανταπεξέλθει στην κρίση του κορωνοιού και να στηρίξει και τα υπόλοιπα επαγγέλματα στο τέλος της πανδημίας, γιατί αυτοί οι κλάδοι στο ενδιάμεσο θα μπορούσαν να παράγουν χωρίς να θέτουν σε κίνδυνο τη δημόσια υγεία .&nbsp;</div>\n        </div>\n    </div>\n</section>",
+          "_cid": "sgclLMSKDY",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-7n"
         },
         {
           "_styles": {
@@ -6840,11 +6861,11 @@
           "_name": "content8",
           "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"page4.html\" data-app-placeholder=\"Type Text\">&lt;&lt; Blog page 2</a>\n                    <a class=\"btn btn-black-outline\" href=\"oi-dimokrates.html\" data-app-placeholder=\"Type Text\">Home &gt;&gt;</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "sfLOk4qer6",
+          "_anchor": "content8-7m",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content8-7m"
+          "_params": {}
         },
         {
           "_styles": {
